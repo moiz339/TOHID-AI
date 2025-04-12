@@ -1,10 +1,10 @@
 {
-    "bot-name": "TOHID-AI",
-    "description": "whatsapp user bot",
+    "bot-name": "Toxic",
+    "description": "whatsapp bot toxic",
     "logo": "https://i.imgur.com/WnKjrJt.jpeg",
     "keywords": ["bot"],
     "documentation-link": "https://tohid-ai-pair.onrender.com/",
-    "owner-verification":"mrsanjayyadav7846@gmail.com",
+    "owner-verification":"oeez005100@gmail.com",
   
       "env": {
     "SESSION_ID": {
@@ -20,11 +20,11 @@
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "917849917350"
+      "value": "923198493662"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
-      "required": false,
+      "required": true,
       "value": "🤍"
     },
     "MODE": {
@@ -59,7 +59,7 @@
     },
     "autoreactions_emojies": {
       "description": "put your favourite emojies for AutoReactions on chats or make it empty for all default emojies",
-      "required": false,
+      "required": true,
       "value": "💛,🤍,💗,♥️,💞"
     },
     "VAR_APP": {
@@ -85,11 +85,11 @@
     "STATUS_MSG": {
       "description": "Status reply msg",
       "required": false,
-      "value": "Your Status has been seen by Prince bot"
+      "value": "Your Status has been seen by toxic "
     },
     "REJECTSCALLS": {
       "description": "reject calls",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "CALLMSG": {
