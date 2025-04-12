@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-Automation",
   "description": " Whatsapp Ai",
-  "repository": "https://github.com/Tohidkhan6332/TOHID-AI",
+  "repository": "haha 😂 muja message kr ka lo 😂",
   "logo": "https://i.imgur.com/M1BzE37.jpeg",
   "success_url": "https://github.com/Tohidkhan6332/TOHID-AI",
   "keywords": [
@@ -12,14 +12,14 @@
   "stack": "container",
   "env": {
     "OWNERS": {
-      "description": "owner number",
+      "description": "923198493662",
       "required": true,
       "value": ""
     },
     "BOTNAME": {
-      "description": "Give your BOT a name",
+      "description": "Toxic MD",
       "required": true,
-      "value": "TOHID-AI"
+      "value": "Toxic"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -87,7 +87,7 @@
       "value": "Africa/Nairobi"
     },
     "OWNER_NAME": {
-      "description": "your owner Name",
+      "description": "Toxic",
       "required": false,
       "value": ""
     },
