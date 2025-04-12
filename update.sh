@@ -1,6 +1,6 @@
 #!/bin/bash
-BOT_DIR="TOHID-AI"
-BOT_REPO="https://github.com/Tohidkhan6332/$BOT_DIR"
+BOT_DIR="toxic"
+BOT_REPO="nahi mily gi "
 
 GREEN='\033[32m'
 BOLD='\033[1m'
