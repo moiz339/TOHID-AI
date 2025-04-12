@@ -1,5 +1,5 @@
 {
-"name": "TOHID-AI",
+"name": "Toxic",
 "version": "2.9.7", 
 "homepage": ".",
 "description": "A Muslim WhatsApp User Bot",
@@ -22,16 +22,16 @@
 "test2": "nodemon index.js"
    },
     
-"homepage": "https://github.com/Tohidkhan6332/TOHID-AI",
+"homepage": "🥵🍷",
 "author": {
-"name": "dasta" },
+"name": "toxic" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Tohidkhan6332/TOHID-AI.git" },
-
+"url": "😂" }, 
+    
 "bugs": {
-"url": "https://github.com/Tohidkhan6332/TOHID-AI/issues" },
+"url": "😂🍷" },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@brandond/findthelyrics": "^2.0.5",
