@@ -23,7 +23,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
       externalAdReply: {
         title: '© 𝘛𝘰𝘹𝘪𝘤',
         body: '© toxic_md',
-        thumbnailUrl: img,
+        thumbnailUrl:'img',
         sourceUrl: 'https://whatsapp.com/channel/0029Vb7eF2wJf05kbyrlbu3s',
         mediaType: 1,
         renderLargerThumbnail: true,
