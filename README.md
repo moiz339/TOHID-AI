@@ -85,7 +85,7 @@ To set up the TOHID-AI quickly, follow our detailed tutorial on YouTube:
 ### *Baileys doesn’t support the Pair Code feature right now. This issue is ongoing, and while it might get fixed in the future so plz use qr code*
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
-     [![TOHID AI Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://tohid-ai-pair-qr.onrender.com/)
+     [![TOHID AI Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://tohid-ai-web-pair-be01.onrender.com/)
 
 ### DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
