@@ -40,7 +40,7 @@
     "@vitalets/google-translate-api": "^9.2.0",
     "@xct007/tiktok-scraper": "^1.0.2",
     "@bochilteam/scraper": "^5.0.1",
-    "@whiskeysockets/baileys": "github:ds6/bails",
+    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
     "@EdderBot02/ytdlf":"github:EdderBot02/ytdlf",
     "acrcloud": "^1.4.0",
     "adm-zip": "^0.5.16",
